@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module Matrix_Multiplicator
+module Matrix_Multiplier
 #(
 parameter
     BIT_SIZE = 8,
